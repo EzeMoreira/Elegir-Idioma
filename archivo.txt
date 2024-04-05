@@ -1,0 +1,2 @@
+Este repositorio solamente es una práctica de Javascript, ejemplo de como
+iniciar una buena página web, seleccionando el idioma deseado "EN,ES".
